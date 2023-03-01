@@ -1,5 +1,5 @@
 {
-    "name": "asar/anodoc",
+    "name": "luler/anodoc",
     "type": "library",
     "description": "A lightweight doc comment/block parser.",
     "require": {
