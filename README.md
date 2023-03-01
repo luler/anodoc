@@ -1,4 +1,9 @@
 Anodoc
+
+参考源：https://github.com/luler/anodoc
+
+主要解决php8以上兼容性问题
+
 ======
 
 Anodoc is a lightweight doc comment/block parser written in
@@ -140,6 +145,7 @@ class ParamTag extends Tag {
 }
 ?>
 ```
+
 This is not registered by default so you must register it
 yourself to be useful.
 
